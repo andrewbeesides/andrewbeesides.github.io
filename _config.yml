@@ -8,6 +8,7 @@ url: "http://andrewyang.me" # the base hostname & protocol for your site
 twitter_username: andrewbeesides
 github_username:  andrewbeesides
 paginate: 5
+timezone: America/Los_Angeles
 
 # Build settings
 markdown: kramdown
