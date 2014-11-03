@@ -2,6 +2,7 @@
 layout: post
 title: "Korea 7/19/2014"
 date: 2014-07-20 21:26:00
+permalink: /korea-7-19-2014
 category: travels 
 tags: travels korea
 ---

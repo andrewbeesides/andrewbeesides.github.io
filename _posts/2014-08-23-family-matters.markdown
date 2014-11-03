@@ -2,6 +2,7 @@
 layout: post
 title: "Family Matters"
 date: 2014-08-23 20:46:00
+permalink: /family-matters
 category: family
 tags: family
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Baek to the BBQ"
 date: 2014-08-23 01:53:00
+permalink: /baek-to-the-bbq
 category: family
 tags: family bbq
 ---
