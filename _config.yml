@@ -4,7 +4,7 @@ email: andrewyang@alumni.ucsd.edu
 description: > # this means to ignore newlines until "baseurl:"
   Korean, Bay Area kid, UCSD alum, Seattleite, sinner dearly loved by God
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://andrewyang.me" # the base hostname & protocol for your site
 twitter_username: andrewbeesides
 github_username:  andrewbeesides
 paginate: 5
