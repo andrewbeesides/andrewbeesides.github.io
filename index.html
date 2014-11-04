@@ -3,9 +3,6 @@ layout: default
 ---
 
 <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
 	<!-- This loops through the paginated posts -->
   <ul class="post-list">
     {% for post in paginator.posts %}
@@ -14,7 +11,7 @@ layout: default
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-					{{ post.excerpt }}
+					{{ post.content }}
         </h2>
       </li>
     {% endfor %}
