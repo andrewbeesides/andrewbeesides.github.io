@@ -2,7 +2,7 @@
 layout: post
 title:  "God Is Not Your Wingman"
 date:   2014-04-30 00:48:00
-permalink: /god-is-not-your-wingman
+permalink: /god-is-not-your-wingman/
 category: theology
 tags: theology
 ---

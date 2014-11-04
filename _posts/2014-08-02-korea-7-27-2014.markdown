@@ -2,8 +2,8 @@
 layout: post
 title: "Korea 7/27/2014"
 date: 2014-08-02 01:17:00
-permalink: /korea-7-27-2014
-category: travels 
+permalink: /korea-7-27-2014/
+category: photography
 tags: travels korea
 ---
 The 27th was a day of goodbyes.

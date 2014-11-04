@@ -2,8 +2,8 @@
 layout: post
 title: "Korea 7/21/2014"
 date: 2014-07-25 00:33:00
-permalink: /korea-7-21-2014
-category: travels 
+permalink: /korea-7-21-2014/
+category: photography
 tags: travels korea
 ---
 Not unlike your typical 21st birthday party, Monday the 21st was a wild, wild day.

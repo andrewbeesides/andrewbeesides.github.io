@@ -2,8 +2,8 @@
 layout: post
 title: "Ye Olde Korea Trip Recap"
 date: 2014-08-22 18:17:00
-permalink: /ye-olde-korea-trip-recap
-category: travels 
+permalink: /ye-olde-korea-trip-recap/
+category: photography
 tags: travels korea
 ---
 On the off chance there remains a hapless soul who has yet to behold the glories of my Korea posts or desires to behold them once more (but whose will is thwarted by an ominous absence of a table of contents or search mechanism in Svbtle -- c'mon Svbtle!), I thought it charitable that I should compile a recap post.

@@ -2,8 +2,8 @@
 layout: post
 title: "Korea 7/18/2014"
 date: 2014-07-20 08:42:00
-permalink: /korea-7-18-2014
-category: travels 
+permalink: /korea-7-18-2014/
+category: photography
 tags: travels korea
 ---
 On Friday, Jason, 민정 (Jason's girlfriend) and I hit up 홍대앞, a bumpin' region of 서울 that is home to street performances, indie musicians, bars and more!

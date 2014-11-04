@@ -2,8 +2,8 @@
 layout: post
 title: "Korea 7/28/2014"
 date: 2014-08-19 23:36:00
-permalink: /korea-7-28-2014
-category: travels 
+permalink: /korea-7-28-2014/
+category: photography
 tags: travels korea
 ---
 Picnic and hiking at 남한산성 and shopping at 명동 is how I spent most of my last full day in Korea with my dad. 맥주 and FaceTime with my family is how the day ended.

@@ -2,8 +2,8 @@
 layout: post
 title: "Baek to the BBQ"
 date: 2014-08-23 01:53:00
-permalink: /baek-to-the-bbq
-category: family
+permalink: /baek-to-the-bbq/
+category: photography
 tags: family bbq
 ---
 Tomorrow, Paul leaves for college.

@@ -2,8 +2,8 @@
 layout: post
 title: "Korea 7/10/2014"
 date: 2014-07-11 01:15:00
-permalink: /korea-7-10-2014
-category: travels 
+permalink: /korea-7-10-2014/
+category: photography
 tags: travels korea
 ---
 안녕하세요! Hello from Korea! I will be posting updates in daily batches with blurbs and photos galore throughout my 3 weeks in the motherland. Enjoy!

@@ -2,8 +2,8 @@
 layout: post
 title: "Family Matters"
 date: 2014-08-23 20:46:00
-permalink: /family-matters
-category: family
+permalink: /family-matters/
+category: photography
 tags: family
 ---
 Before partaking in the Korean BBQ festivities at the Baek's yesterday (excuse me for posting out of order!), Sarah, Paul and I hit up our favorite café, our aunt and uncle's, for lunch. The mission was twofold: eat delicious chicken flautas and say goodbye to our aunt and uncle before I leave for Seattle and Paul leaves for Northridge.

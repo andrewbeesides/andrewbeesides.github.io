@@ -2,8 +2,8 @@
 layout: post
 title: "Korea 7/17/2014"
 date: 2014-07-19 09:30:00
-permalink: /korea-7-17-2014
-category: travels 
+permalink: /korea-7-17-2014/
+category: photography
 tags: travels korea
 ---
 My 삼촌, 이모 and cousin 수진 had the day off on Thursday so they insisted we play -- and play, we did.

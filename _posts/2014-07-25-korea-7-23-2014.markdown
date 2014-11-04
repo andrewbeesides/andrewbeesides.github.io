@@ -2,8 +2,8 @@
 layout: post
 title: "Korea 7/23/2014"
 date: 2014-07-25 02:39:00
-permalink: /korea-7-23-2014
-category: travels 
+permalink: /korea-7-23-2014/
+category: photography
 tags: travels korea
 ---
 On the 23rd day of July, my true love gave to me...  

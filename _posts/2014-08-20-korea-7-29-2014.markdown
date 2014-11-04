@@ -2,8 +2,8 @@
 layout: post
 title: "Korea 7/29/2014"
 date: 2014-08-20 00:45:00
-permalink: /korea-7-29-2014
-category: travels 
+permalink: /korea-7-29-2014/
+category: photography
 tags: travels korea
 ---
 The inevitable, the unavoidable had dutifully arrived: the last day. I certainly was looking forward to escaping from the Korean weather and seeing my girlfriend...but, at the same time, I wanted my blissful vacation to go on for just a *little* bit longer.

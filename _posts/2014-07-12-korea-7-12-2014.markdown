@@ -2,8 +2,8 @@
 layout: post
 title: "Korea 7/12/2014"
 date: 2014-07-12 20:16:00
-permalink: /korea-7-12-2014
-category: travels 
+permalink: /korea-7-12-2014/
+category: photography
 tags: travels korea
 ---
 Another day, more photos to share! The only item on our itinerary was to hang out at 한강 (Han River). As usual, we made use of the subway and our legs to get from point A to point B.

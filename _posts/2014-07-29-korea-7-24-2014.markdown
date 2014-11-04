@@ -2,8 +2,8 @@
 layout: post
 title: "Korea 7/24/2014"
 date: 2014-07-29 01:58:00
-permalink: /korea-7-24-2014
-category: travels 
+permalink: /korea-7-24-2014/
+category: photography
 tags: travels korea
 ---
 The 24th of July was the day I became a tiny part of a significant event in Korean history.

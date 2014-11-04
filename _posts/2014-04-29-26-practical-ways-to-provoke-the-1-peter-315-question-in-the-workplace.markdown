@@ -2,7 +2,7 @@
 layout: post
 title: "26 Practical Ways To Provoke the 1 Peter 3:15 Question in the Workplace"
 date: 2014-04-29 21:50:00
-permalink: /26-practical-ways-to-provoke-the-1-peter-3-15-question-in-the-workplace
+permalink: /26-practical-ways-to-provoke-the-1-peter-3-15-question-in-the-workplace/
 category: theology
 tags: theology
 ---

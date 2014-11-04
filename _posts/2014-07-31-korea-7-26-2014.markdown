@@ -2,8 +2,8 @@
 layout: post
 title: "Korea 7/26/2014"
 date: 2014-07-31 21:40:00
-permalink: /korea-7-26-2014
-category: travels 
+permalink: /korea-7-26-2014/
+category: photography
 tags: travels korea
 ---
 Simple post for a simple day -- I spent the morning and afternoon resting and blogging. It was one of few days in Korea I rested for most of the day so it was certainly time well spent!

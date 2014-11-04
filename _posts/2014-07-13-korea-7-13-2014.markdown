@@ -2,8 +2,8 @@
 layout: post
 title: "Korea 7/13/2014"
 date: 2014-07-13 09:39:00
-permalink: /korea-7-13-2014
-category: travels 
+permalink: /korea-7-13-2014/
+category: photography
 tags: travels korea
 ---
 Church and basketball were today's main attractions. We made use of the subway, our legs and the bus to make it to our first destination in Itaewon (which is widely known as "Western Town" for its diversity).
