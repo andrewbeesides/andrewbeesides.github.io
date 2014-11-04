@@ -1,9 +1,9 @@
 andrewbeesides.github.io
 ========================
 
-Front Matter
+Posts
 ------------------------
-### Posts
+### Front Matter
 **Categories**
 - photography
 - theology
