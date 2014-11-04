@@ -3,7 +3,7 @@ andrewbeesides.github.io
 
 Front Matter
 ------------------------
-
+### Posts
 **Categories**
 - photography
 - theology
