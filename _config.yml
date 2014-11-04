@@ -3,7 +3,7 @@ title: Andrew Yang
 email: andrewyang@alumni.ucsd.edu
 description: > # This means to ignore newlines until "baseurl:"
   Korean, Bay Area kid, UCSD alum, Seattleite, sinner dearly loved by God
-baseurl: "/blog"
+baseurl: ""
 url: "http://andrewyang.me"
 twitter_username: andrewbeesides
 github_username:  andrewbeesides
