@@ -277,3 +277,27 @@
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
 }
+
+
+
+/**
+ * Archive
+ */
+.archive-list {
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit / 2;
+    }
+}
+
+.archive-meta {
+    font-size: $small-font-size;
+    color: $grey-color;
+}
+
+.archive-link {
+    display: block;
+    font-size: $base-font-size;
+}
