@@ -14,3 +14,5 @@ Posts
 - korea
 - theology
 - travels
+- stephanie
+- picnic
