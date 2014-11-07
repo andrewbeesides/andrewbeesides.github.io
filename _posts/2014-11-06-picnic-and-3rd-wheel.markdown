@@ -8,7 +8,7 @@ tags: picnic Stephanie
 ---
 This post is 2 months overdue -- but better 2 months overdue than 5 months overdue, wouldn't you agree?
 
-On the 27th of August, Steph and I set up camp at Green Lake Park to enjoy ourselves a wholesome, family-friendly picnic. We feasted on fruits, veggies, cheese, bacon, quinoa salad, chocolates and drinks all on top of the Korean picnic blanket that is a *tiny* bit too small (ie. it's either made for 2 tiny Koreans or 1 normal-sized American).
+On the 27th of August, Steph and I set up camp at Green Lake Park to enjoy ourselves a wholesome, family-friendly picnic. We feasted on fruits, veggies, cheese, bacon, quinoa salad, chocolates and drinks all on top of the Korean picnic blanket that is a *little* bit too small (ie. it's either made for 2 tiny Koreans or 1 normal-sized American).
 
 ![P8270002.JPG](/assets/2014-11-06-picnic-and-3rd-wheel/P8270002.JPG)
 
