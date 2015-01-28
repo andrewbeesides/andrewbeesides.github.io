@@ -73,11 +73,11 @@ If those photos aren't capable of bringing on the Niagra Falls, surely photos of
 
 We made a quick pit stop at a bookstore for a nap...
 
-![2015-01-24_14.35.40.JPG](/assets/2015-01-24-the-bainbridge-islanders/2015-01-24_14.35.40.JPG)
+![the_napping_sisters.JPG](/assets/2015-01-24-the-bainbridge-islanders/the_napping_sisters.JPG)
 
 ...and made our way back to the ferry terminal.
 
-![2015-01-24_14.42.41.JPG](/assets/2015-01-24-the-bainbridge-islanders/2015-01-24_14.42.41.JPG)
+![leaving_bainbridge_island.JPG](/assets/2015-01-24-the-bainbridge-islanders/leaving_bainbridge_island.JPG)
 
 Like bosses, we took it easy on the ferry ride and relaxed. Just a short trip home!
 
