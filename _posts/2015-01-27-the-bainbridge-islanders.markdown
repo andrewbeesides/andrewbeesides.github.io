@@ -71,11 +71,11 @@ If those photos aren't capable of bringing on the Niagra Falls, surely photos of
 
 ![P1240132.JPG](/assets/2015-01-24-the-bainbridge-islanders/P1240132.JPG)
 
-We made a quick pit stop at a bookstore for a nap...
+A quick pitstop at a bookstore for a nap...
 
 ![the_napping_sisters.JPG](/assets/2015-01-24-the-bainbridge-islanders/the_napping_sisters.JPG)
 
-...and made our way back to the ferry terminal.
+...and then back to the ferry terminal!
 
 ![leaving_bainbridge_island.JPG](/assets/2015-01-24-the-bainbridge-islanders/leaving_bainbridge_island.JPG)
 
