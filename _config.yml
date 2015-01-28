@@ -10,5 +10,5 @@ github_username:  andrewbeesides
 
 # Build settings
 markdown: kramdown
-paginate: 3
+paginate: 2
 timezone: America/Los_Angeles
